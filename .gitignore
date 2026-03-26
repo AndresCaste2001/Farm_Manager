@@ -1,0 +1,30 @@
+node_modules
+dist
+out
+.DS_Store
+.eslintcache
+*.log*
+
+# Build artifacts
+dist-electron/
+release/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# App data (JSON storage local)
+data/
+
+# Temp
+*.tmp
+*.temp
